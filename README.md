@@ -1,5 +1,4 @@
-# spin-hell
-for spin lazada
+Spin-hell for lzd
 ==========================
 
 
